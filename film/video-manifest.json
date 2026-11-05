@@ -1,0 +1,26 @@
+{
+  "title": "Math Metal Polyrhythmic Riffs",
+  "study": "z5501",
+  "bpm": 148,
+  "source_audio": "preview/math-metal-polyrhythmic-riffs-simple-synth-preview.mp3",
+  "source_audio_sha256": "0c23bdd1e21d346f5a8ca877dc5a3cd90989316ea1025fad07c600ced696d806",
+  "source_midi": "midi/z5501-math-metal-polyrhythmic-riffs-opening/z5501-math-metal-polyrhythmic-riffs-opening-combined.mid",
+  "source_midi_sha256": "36644b418031a55582325757373b59327400b140640a69a6df604ebcc5df9aed",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a8affca2e5bb7ef1035518f1e7297229c949d333336efdf9eff37591b3289a84",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5e2cc852127f45f88c96dd789abd79699dc08ff2a77b82a2b6777d96ce30c892",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "21129a2a40511153034f2d771a65d6265721eba6d7ec7af9f3f49e889f58ed63",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

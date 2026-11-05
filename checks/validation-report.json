@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:21.656869+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "7ff1c3e778d6530d36de9a8e72099e0d1b5e59b46844b1c8592d7ed5eae98c27",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b2dfd67a52d469c3833e310e286f594fbf6fa669e73a63c50c27f8d94478cb4d",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "d18fd0b7e0f1d7e4859ac39504399134b05d4281e20d0111813b3eacc351dfc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "bba3f6a115a18977a80997e44098a109d737f4183e4ea800eeb845b7b1bd8491",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "3ae593788db61b0147a85e9f16ded27d5f3cdf4254bd782261ac36638b5f86d1",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "af81bb1d6ac1a58f36121701ca48e09599732febc48ab66e2a74a8dc927f9e20",
+      "errors": []
+    },
+    {
+      "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/z5501-math-metal-polyrhythmic-riffs-opening-combined.mid",
+      "bytes": 5707,
+      "sha256": "36644b418031a55582325757373b59327400b140640a69a6df604ebcc5df9aed",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e6afa3b7cd48c17da72d3195cbd8735d741f278245bf6fe6a964987064b5ecd0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f96c7748c29f6c5f2f0a9b31c53a3d28d4fc179b86e4ce16c60041a3d3118ec4",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "d18fd0b7e0f1d7e4859ac39504399134b05d4281e20d0111813b3eacc351dfc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "e1d8299a78e66fab71ef2833e3147df93af1fa9292df1e6ace986526fe240973",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "a70a4ac55236c2a220b97cbc684611a5f11c007a227a3263fbab28e8e9474c7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7c9f21aabe76e500996473aaf8038a7049f821102cc4792d328c1e263de4c45e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5502-math-metal-polyrhythmic-riffs-variation/z5502-math-metal-polyrhythmic-riffs-variation-combined.mid",
+      "bytes": 5707,
+      "sha256": "8229a0752e51ade77eb57cfb757dbb05103d431b1193b2c34d275257b58db66f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e85093e345e4dfb4ce7a4c22bc2363eac1d44e5328ff8fc08af1baeb1ab448c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "a45809149ed3cf0f5e2b2038a8f0d306fc552ceffd994c8ae8a2bea1b6c1705b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "d18fd0b7e0f1d7e4859ac39504399134b05d4281e20d0111813b3eacc351dfc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "b089921401658b87a5bd065da0c25232c87b1c778b3c06b8df34aed6ea963055",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "f8a8b930ddaf25c06c410d361418a501d90df719d41150ad6a49c83bc21d04be",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "af846a949f389dd7f34059257c7938d5fdd9e9617860e93ad01a1f9f92cc7aac",
+      "errors": []
+    },
+    {
+      "path": "midi/z5503-math-metal-polyrhythmic-riffs-contrast/z5503-math-metal-polyrhythmic-riffs-contrast-combined.mid",
+      "bytes": 5675,
+      "sha256": "c3782046e3adf69dd51b7d43aec66413f06944bc546659a9afb9d4cc19187c64",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "6362b3fb2dd66cdc1ed5f8a25b364358c5acb55cf51f652313b6a63cca541b5b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c22b9b69116b5ca4d248557690a255c39834926b566100ccf56c153fe98b59b8",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "d18fd0b7e0f1d7e4859ac39504399134b05d4281e20d0111813b3eacc351dfc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "83738a5d35ed079902f9e57e20fb82aa527b3f44095653e9af34051069f53aca",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "b9239571b0443643d8b64f1809fdd4786831f64e2e96fa42ad44f8800f484b06",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "9caad12951d9a6d7b0d4430595731272d68a335c44cff1fbde7932532cf6e34e",
+      "errors": []
+    },
+    {
+      "path": "midi/z5504-math-metal-polyrhythmic-riffs-return/z5504-math-metal-polyrhythmic-riffs-return-combined.mid",
+      "bytes": 5675,
+      "sha256": "c2ec1829c7ba8b014955cd9cbab7d2d1db2283c2b61a39026de837f2c2375284",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
