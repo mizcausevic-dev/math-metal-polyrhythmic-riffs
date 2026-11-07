@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/math-metal-polyrhythmic-riffs-midi.zip",
-      "bytes": 31921,
-      "sha256": "473467aa4b6d56c891554fa9973575c73dc5373fff5cde565e9d8941a53bd7cf"
+      "bytes": 32908,
+      "sha256": "bacb11880803e393bf398774cb7b52bed998c33b4e38fa4bdd08b8b48856751c"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10140,
-      "sha256": "a6494c5019ae4edf15670345719d3852c86e63d365bae334409e07592a5f3a5d"
+      "bytes": 10330,
+      "sha256": "0b1404fe5ee2ab541238b6a937696a5232a4c77bf127154fc97b63e981d237a0"
     },
     {
       "path": "midi/z5501-math-metal-polyrhythmic-riffs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "c2ec1829c7ba8b014955cd9cbab7d2d1db2283c2b61a39026de837f2c2375284"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/math-metal-polyrhythmic-riffs-simple-synth-preview.mp3",
       "bytes": 1258937,
       "sha256": "0c23bdd1e21d346f5a8ca877dc5a3cd90989316ea1025fad07c600ced696d806"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4034,
-      "sha256": "b4a36eae072de9959ca3983c4a78345e218fe2ae43824ca6b7a9cda12fa9d995"
+      "bytes": 4149,
+      "sha256": "f1ddbea33c2077ca90464a5ed34972d0da813358a520ca187e1f890e46561195"
     },
     {
       "path": "social/instagram/caption.txt",
